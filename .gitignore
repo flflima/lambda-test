@@ -1,0 +1,8 @@
+# volume do docker
+volume/
+
+# terraform
+outputs/
+.terraform/
+.terraform*
+terraform.*
